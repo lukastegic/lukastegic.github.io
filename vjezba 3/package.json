@@ -1,0 +1,20 @@
+{
+  "name": "vjezba-3",
+  "version": "1.0.0",
+  "description": "Treća vjezba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Luka Stegić",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^10.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
